@@ -21,10 +21,8 @@ author: Cédric Vincent-Cuaz
 
 navbar-links:
   Publications: "publications"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Venues: "venues"
+  Teachings: "teachings"
 
 ################
 # --- Logo --- #
