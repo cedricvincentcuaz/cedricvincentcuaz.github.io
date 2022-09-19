@@ -3,10 +3,16 @@ layout: page
 title: Publications
 ---
 
-# Preprints
 
 
-* *Template based Graph Neural Network with Optimal Transport Distances*, **Vincent-Cuaz, C.**, Flamary, R., Corneli, M., Vayer, T., & Courty, N. (2022)
+
+
+ 	
+# Publications
+
+
+* *Template based Graph Neural Network with Optimal Transport Distances*, **Vincent-Cuaz, C.**, Flamary, R., Corneli, M., Vayer, T., & Courty, N.
+ Thirty-sixth Conference on Neural Information Processing Systems (Neurips 2022)
   Links: [Paper](https://arxiv.org/abs/2205.15733), [Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:rv-fruZhkZYJ:scholar.google.com/&output=citation&scisdr=CgXYLniKEJWKgpsVQt8:AAGBfm0AAAAAYxETWt_GHonsW-6YthBRDUi25O4w5XUB&scisig=AAGBfm0AAAAAYxETWjS2klzz6zoynLWTNFAMjh4r4Rlr&scisf=4&ct=citation&cd=-1&hl=fr).
   <details>
   <summary>Abstract</summary>
@@ -14,12 +20,6 @@ title: Publications
   </font>
   </details>
   <p align="center"> <img width="500" height="256" src="/assets/img/TFGW_figure.png"> </p>
-
-
-
- 	
-# Publications
-
 
 
 * *Semi-relaxed Gromov-Wasserstein divergence with applications on graphs*, **Vincent-Cuaz, C.**, Flamary, R., Corneli, M., Vayer, T., & Courty, N.
@@ -45,3 +45,9 @@ title: Publications
   </details>
   <p align="center"> <img width="500" height="353" src="/assets/img/GDL_figure.png"> </p>
 
+
+
+# Preprints
+
+
+None for now.
