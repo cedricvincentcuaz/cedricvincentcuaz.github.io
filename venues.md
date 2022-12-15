@@ -6,6 +6,13 @@ title: Venues
 
 # 2022
 
+
+* NeurIPS 2022, New-Orleans. Attendance and Poster Session.
+
+* SophIA Summit 2022. Poster session on Optimal Transport for Graph Representation Learning.
+
+* 3IA Côte d'Azur annual meeting. Poster sessions. 
+
 * 27ème Colloque Francophone de Traitement du Signal et des Images, GRETSI 2022. Talk at the Optimal Transport session. 
 
 * Conférence sur l'Apprentissage automatique, CAp 2022. Talk and poster session.
