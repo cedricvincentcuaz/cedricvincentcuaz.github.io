@@ -63,4 +63,4 @@ None for now.
 
 Some content for the wonderful [POT library](https://pythonot.github.io/) that I help to main.
 
-* Details on the Conditional Gradient solvers for the Gromov-Wasserstein distance: 
+* Details on the Conditional Gradient solvers for the Gromov-Wasserstein distance: An unfinished [note](https://github.com/cedricvincentcuaz/cedricvincentcuaz.github.io/blob/master/POT/FGW___POT.pdf) 
