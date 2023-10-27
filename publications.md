@@ -56,3 +56,11 @@ title: Publications
 
 
 None for now.
+
+
+# Python Optimal Transport Library
+
+
+Some content for the wonderful [POT library](https://pythonot.github.io/) that I help to main.
+
+* Details on the Conditional Gradient solvers for the Gromov-Wasserstein distance: 
