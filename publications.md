@@ -10,9 +10,19 @@ title: Publications
  	
 # Publications
 
+* * Interpolating between Clustering and Dimensionality Reduction with Gromov-Wasserstein *, Van Hassel H., **Vincent-Cuaz, C.**, Vayer T., Flamary R., Courty N.
+Workshop Optimal Transport and Machine Learning, Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023, Workshop)
+Links : [Paper](https://arxiv.org/pdf/2310.03398.pdf), [Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:FeoNu7dTwP4J:scholar.google.com/&output=citation&scisdr=ClHpsA_lEM243Cexap8:AFWwaeYAAAAAZYC3cp9OzqWjzyWrAbzZbZjNzg0&scisig=AFWwaeYAAAAAZYC3coA-BVmtWSSOsG_KgFL5ofM&scisf=4&ct=citation&cd=-1&hl=fr&scfhb=1).
+<details>
+<Summary>Abstract</summary>
+<font size="2">We present a versatile adaptation of existing dimensionality reduction (DR) objectives, enabling the simultaneous reduction of both sample and feature sizes. Correspondances between input and embedding samples are computed through a semi-relaxed Gromov-Wasserstein optimal transport (OT) problem. When the embedding sample size matches that of the input, our model recovers classical
+popular DR models. When the embedding’s dimensionality is unconstrained, we show that the OT plan delivers a competitive hard clustering. We emphasize the importance of intermediate stages that blend DR and clustering for summarizing real data and apply our method to visualize datasets of images.
+  </font>
+  </details>
+
 
 * *Template based Graph Neural Network with Optimal Transport Distances*, **Vincent-Cuaz, C.**, Flamary, R., Corneli, M., Vayer, T., & Courty, N.
- Thirty-sixth Conference on Neural Information Processing Systems (Neurips 2022, Oral Paper)
+ Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022, Oral Paper)
   Links: [Paper](https://arxiv.org/abs/2205.15733), [Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:rv-fruZhkZYJ:scholar.google.com/&output=citation&scisdr=CgXYLniKEJWKgpsVQt8:AAGBfm0AAAAAYxETWt_GHonsW-6YthBRDUi25O4w5XUB&scisig=AAGBfm0AAAAAYxETWjS2klzz6zoynLWTNFAMjh4r4Rlr&scisf=4&ct=citation&cd=-1&hl=fr), [Slides](https://neurips.cc/media/neurips-2022/Slides/53079.pdf).
   <details>
   <summary>Abstract</summary>
@@ -49,6 +59,17 @@ title: Publications
   </font>
   </details>
   <p align="center"> <img width="500" height="353" src="/assets/img/GDL_figure.png"> </p>
+
+
+# Thesis
+
+* *Optimal Transport for Graph Representation Learning*, **Vincent-Cuaz, C**.
+Supervisors: [Rémi Flamary](https://remi.flamary.com/index.fr.html), [Marco Corneli](https://math.univ-cotedazur.fr/~mcorneli/).
+Jury President: [Marco Gori](https://sailab.diism.unisi.it/people/marco-gori/)
+Jury reporters:  [Florence D'Alché-Buc](https://www.telecom-paris.fr/florence-dalche-buc), [Gabriel Peyré](https://www.gpeyre.com/).
+Jury reviewers: [Laetitie Chapel](https://people.irisa.fr/Laetitia.Chapel/), [Hongteng Xu](https://hongtengxu.github.io/).
+
+Links: [Manuscript](https://theses.hal.science/tel-04146481v1/document), slides.
 
 
 
